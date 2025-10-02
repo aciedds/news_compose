@@ -18,5 +18,4 @@ The following technologies and tools were used in the development of this applic
 - **Retrofit**
 - **Clean Architecture**
 
-   ```
 ## Video Demo
